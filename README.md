@@ -7,6 +7,8 @@ This project is a simple project to demostrate the use of free apis to build a w
 Quotes are being randomly loaded using the https://forismatic.com/en/api/ Random Quote API
 #Fonts are being loaded by font-awesome api.
 
+Hero pattern is used to create the awesome background :- https://piyumaldissanayake.github.io/quote-generator/
+
 Project is live at:- https://piyumaldissanayake.github.io/quote-generator/
 
 
